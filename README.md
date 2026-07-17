@@ -100,6 +100,6 @@ dist/
 
 Copyright (c) 2026 ideaseek
 
-珠海市智寻科技有限公司
+[珠海市智寻科技有限公司](https://www.ideaseek.cn)
 
 Zhuhai Zhixun Technology Co., Ltd.
