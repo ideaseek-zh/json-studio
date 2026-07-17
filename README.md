@@ -2,7 +2,7 @@
 
 JSON Studio 是一个面向中文用户的在线 JSON 工具箱，支持 JSON 格式化、压缩、校验、可视化、树视图和 TypeScript 类型定义生成。
 
-项目维护方：ideaseek / 珠海市智寻科技有限公司
+项目维护方：ideaseek / [珠海市智寻科技有限公司](https://www.ideaseek.cn)
 
 演示地址：[https://json.ideaseek.cn/](https://json.ideaseek.cn/)
 
